@@ -1,3 +1,3 @@
 files:
   - source: /src/main/resources/io/jenkins/plugins/column/console/**/*.properties
-    translation: /src/main/resources/io/jenkins/plugins/column/console/**/%original_file_name%_%two_letters_code%.properties
+    translation: /src/main/resources/io/jenkins/plugins/column/console/**/%file_name%_%two_letters_code%.properties
